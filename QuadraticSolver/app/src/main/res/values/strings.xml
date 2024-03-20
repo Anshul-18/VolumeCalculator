@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuadraticSolver</string>
+    <string name="ax_2_bx_c_0">ax^2+bx+c=0</string>
+    <string name="enter_a">enter a</string>
+    <string name="enter_b">enter b</string>
+    <string name="enter_c">enter c</string>
+    <string name="solve">solve</string>
+    <string name="solution">Solution</string>
+</resources>

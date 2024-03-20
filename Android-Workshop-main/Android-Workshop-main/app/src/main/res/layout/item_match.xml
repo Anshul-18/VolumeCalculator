@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="25dp"
+    android:padding="8dp"
+    android:layout_margin="8dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        >
+
+        <TextView
+            android:id="@+id/cv_team1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IND"
+            android:textSize="20sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" VS "
+            android:textSize="20sp"
+            />
+
+        <TextView
+            android:id="@+id/cv_team2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PAK"
+            android:textSize="20sp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="end"
+            >
+
+            <TextView
+                android:id="@+id/cv_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Match Starts at Oct 21, 2023"
+                />
+
+            <TextView
+                android:id="@+id/location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lucknow"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

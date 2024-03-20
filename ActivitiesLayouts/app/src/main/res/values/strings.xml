@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ActivitiesLayouts</string>
+    <string name="this_is_batman">Bruce Wayne</string>
+    <string name="mr_john_wich" tools:ignore="Typos">Mr.John Wich</string>
+</resources>

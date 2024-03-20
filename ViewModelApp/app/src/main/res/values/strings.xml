@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewModelApp</string>
+    <string name="view_model_app">View Model App</string>
+    <string name="_0">0</string>
+    <string name="increase_cunter">increase cunter!</string>
+</resources>

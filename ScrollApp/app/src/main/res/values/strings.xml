@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ScrollApp</string>
+    <string name="this_is_scroll_view">this is scroll view</string>
+    <string name="this_is_the_scroll_view">this is the scroll view</string>
+    <string name="textview">
+        <b>Computer science</b> is the study of computation\, information, and automation. Computer science spans theoretical disciplines (such as algorithms\, theory of computation\, and information theory) to applied disciplines (including the design and implementation of hardware and software). Though more often considered an academic discipline\, computer science is closely related to computer programming\n
+
+        Algorithms and data structures are central to computer science. The theory of computation concerns abstract models of computation and general classes of problems that can be solved using them. The fields of cryptography and computer security involve studying the means for secure communication and for preventing security vulnerabilities. Computer graphics and computational geometry address the generation of images. Programming language theory considers different ways to describe computational processes\, and database theory concerns the management of repositories of data. Human–computer interaction investigates the interfaces through which humans and computers interact\, and software engineering focuses on the design and principles behind developing software. Areas such as operating systems\, networks and embedded systems investigate the principles and design behind complex systems. Computer architecture describes the construction of computer components and computer-operated equipment. Artificial intelligence and machine learning aim to synthesize goal-orientated processes such as problem-solving\, decision-making\, environmental adaptation, planning and learning found in humans and animals. Within artificial intelligence\, computer vision aims to understand and process image and video data\, while natural language processing aims to understand and process textual and linguistic data.\n
+
+        Programming languages can be used to accomplish different tasks in different ways. Common programming paradigms include:\n
+
+Functional programming\, a style of building the structure and elements of computer programs that treats computation as the evaluation of mathematical functions and avoids state and mutable data. It is a declarative programming paradigm\, which means programming is done with expressions or declarations instead of statements.
+Imperative programming\, a programming paradigm that uses statements that change a program\'s state. In much the same way that the imperative mood in natural languages expresses commands\, an imperative program consists of commands for the computer to perform. Imperative programming focuses on describing how a program operates.
+Object-oriented programming\, a programming paradigm based on the concept of "objects"\, which may contain data\, in the form of fields\, often known as attributes; and code\, in the form of procedures\, often known as methods. A feature of objects is that an object\'s procedures can access and often modify the data fields of the object with which they are associated. Thus object-oriented computer programs are made out of objects that interact with one another.
+Service-oriented programming\, a programming paradigm that uses "services" as the unit of computer work\, to design and implement integrated business applications and mission critical software programs
+Many languages offer support for multiple paradigms\, making the distinction more a matter of style than of technical capabilities
+
+
+    </string>
+</resources>

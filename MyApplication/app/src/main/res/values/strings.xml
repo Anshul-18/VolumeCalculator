@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="submit">Submit</string>
+    <string name="its_a_immage">its a immage</string>
+    <string name="its_the_image">its the image</string>
+    <string name="enter_the_kg_value">Enter the Kg value</string>
+    <string name="textview">TextView</string>
+    <string name="itisdec">itisdec</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="cick_me">cick me!</string>
+    <string name="hello">hello</string>
+    <string name="e_g_5">e.g 5</string>
+</resources>

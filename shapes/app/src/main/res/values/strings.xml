@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">shapes</string>
+    <string name="just_a_button">Just a button</string>
+    <string name="welcome">Welcome to our app!</string>
+    <string name="search">Search</string>
+    <string name="home">home</string>
+    <string name="pizza">Pizza</string>
+    <string name="tomato">tomato</string>
+    <string name="potato">potato</string>
+    <string name="click_it">click it</string>
+
+</resources>

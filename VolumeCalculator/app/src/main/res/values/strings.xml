@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VolumeCalculator</string>
+    <string name="text1">text1</string>
+    <string name="volume_calculator">Volume Calculator</string>
+    <string name="sphere_volume">Sphere Volume</string>
+    <string name="enter_radius">enter radius</string>
+    <string name="result">result</string>
+    <string name="calculate_volume">Calculate Volume</string>
+    <string name="volume_of_cylinder">Volume of Cylinder</string>
+    <string name="enter_height">enter height</string>
+    <string name="calulate_vol_of_cy">calulate vol. of cy.</string>
+    <string name="calculate_vol_of_cy">calculate vol. of cy.</string>
+    <string name="volume_of_cube">Volume of Cube</string>
+    <string name="enter_side">enter side</string>
+    <string name="cube_vol">cube vol</string>
+    <string name="volume_of_prism">Volume of prism</string>
+    <string name="enter_base">enter base</string>
+    <string name="get_vol">get vol</string>
+    <string name="forprism_b_h">forPrism = B*h</string>
+    <string name="forcube_side_3">forCube = side^3</string>
+    <string name="forcylinder_pi_r_2_h">forCylinder = pi*(r^2)*h</string>
+    <string name="forsphere_4_3_pi_r_3">forSphere = (4/3)*pi*(r^3)</string>
+</resources>

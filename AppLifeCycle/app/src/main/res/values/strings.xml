@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppLifeCycle</string>
+    <string name="go_to_second_activity">Go to second Activity</string>
+    <string name="go_to_youtube">Go to YouTube</string>
+</resources>
